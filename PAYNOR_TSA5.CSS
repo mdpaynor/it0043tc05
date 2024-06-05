@@ -43,16 +43,12 @@
     padding: 5px;
 }
 
-.race{
-    font-size: 1.2rem;
-}
-
 .img{
     width: 64px;
     height: 20;
 }
 
-.description{
+.descr{
     text-align: justify;
     line-height: 1.5;
 }
